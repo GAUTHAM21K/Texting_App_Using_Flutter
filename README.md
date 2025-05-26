@@ -80,4 +80,16 @@ This Flutter project implements a chat application with Firebase authentication 
 
 1. Install dependencies:
    ```sh
-   flutter pub get
+   flutter pub get```
+
+   ![image](https://github.com/user-attachments/assets/16f1e445-df12-454c-b929-6afd7940da5f)
+   ![image](https://github.com/user-attachments/assets/38b23a14-3ebc-44e4-8c9f-cbd16b7a43d3)
+   ![image](https://github.com/user-attachments/assets/241b5a2d-de9f-449f-8aa1-f56d9d73598e)
+   ![image](https://github.com/user-attachments/assets/3d4228c8-7ca4-4323-9799-62ff726ee7ac)
+   ![image](https://github.com/user-attachments/assets/d536d738-e10b-4169-97a5-5e0488c3dd15)
+
+
+
+
+
+   
